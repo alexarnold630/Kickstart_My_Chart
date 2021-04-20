@@ -64,3 +64,6 @@ The analysis concludes:
     - Country influences success as shown in every category of this data set. The United States reigns supreme in terms of the overall number of Kickstarter campaigns but more importantly, the number of successful Kickstarter campaigns.
 - May is the most successful month (by count).
     - Lasty, month plays a role in a Kickstarter campaign’s success as shown with the overwhelming success in May. This trend of success in May is also reflective in the highly successful theater category.
+
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
